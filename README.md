@@ -14,3 +14,9 @@ To begin with here is a list of possible steps for a systems design interview st
 - The Whimsical Middleware Design (In this step you will add any designs for middleware you might use that you have not already outlined in other steps)
 - The Whimsical Front End Design (This is a medium to high level design ofr what the front end might look like as in flow and general views)
 - At this point you can start mocking out some of the database schema and api service and endpoints in your language of choice (This is a very rudimentary code of each moving part as seperate parts not an overall full application more like mix between pseudocode and actual code This is the initial stage of starting the **Execute** phase of the design))
+
+## Useful Links
+- [Whimsical](https://whimsical.com)
+- [Figma](https://www.figma.com)
+- [DB Diagram](https://dbdiagram.io)
+- [Docker - Getting Started](https://docs.docker.com/get-started/overview/)
