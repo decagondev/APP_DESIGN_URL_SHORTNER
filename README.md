@@ -20,4 +20,5 @@ To begin with, here is a list of possible steps for a systems design interview s
 - [Whimsical](https://whimsical.com)
 - [Figma](https://www.figma.com)
 - [DB Diagram](https://dbdiagram.io)
+- [Trello](https://trello.com)
 - [Docker - Getting Started](https://docs.docker.com/get-started/overview/)
